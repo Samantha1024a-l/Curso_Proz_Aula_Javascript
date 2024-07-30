@@ -1,0 +1,3 @@
+Uma extensão VSCode útil para desenvolvimento web, particularmente para HTML, CSS e JavaScript, é o Live Server.
+Atualização Automática O Live Server cria um servidor local que atualiza automaticamente o navegador sempre que você salva um arquivo. 
+Isso elimina a necessidade de atualizar manualmente uma página, economizando tempo e aumentando a eficiência durante o desenvolvimento.​
