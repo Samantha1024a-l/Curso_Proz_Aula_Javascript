@@ -1,0 +1,18 @@
+Exemplo: Página Inicial de Pesquisa do Google
+
+Campo de Pesquisa Interativo:
+
+Quando você começa a digitar no campo de pesquisa, sugestões de pesquisa aparecem automaticamente abaixo do campo.
+Essas sugestões mudam dinamicamente à medida que você continua escrevendo.
+Você pode usar as setas do teclado para navegar pelas sugestões e pressionar "Enter" para selecionar uma.
+Completar automaticamente:
+
+Conforme você digita, o texto é preenchido automaticamente, indicando palavras ou frases inteiras que você pode procurar.
+Atualização Dinâmica da Página:
+
+Quando você clica em uma das sugestões de pesquisa ou pressiona "Enter", os resultados da pesquisa aparecem sem recarregar a página inteira.
+Apenas a seção de resultados é atualizada, proporcionando uma experiência de usuário mais fluida e rápida.
+Elementos Interativos:
+
+Ícones e botões (como o botão de pesquisa) reagem aos cliques e outros eventos do mouse.
+Algumas animações suaves, como a expansão ou contração do campo de pesquisa, também são visíveis ao focar ou desfocar o campo.
